@@ -1,5 +1,3 @@
-TERM PROJECT PROGRAM SUBMISSION
---------------------------
 NAME : Namrata gurjar
 ROLLNO : 21223040
 MCA 5TH SEMESTER
