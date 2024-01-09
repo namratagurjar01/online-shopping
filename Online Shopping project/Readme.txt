@@ -1,10 +1,8 @@
-TERM PROJECT PROGRAM SUBMISSION
+
 --------------------------
-NAME : RAHUL PATIDAR
-ROLLNO : 20223073
-MCA 4TH SEMESTER
-SUBMITTED TO : DR. SHYAM SUNDAR
-SUBJECT:-WEB TECHNOLOGY - ADVANCE JAVA
+NAME : Namrata Gurjar
+ROLLNO : 21223040
+MCA 6TH SEMESTER
 -------------------------------
 ABSTRACT:-
 In this project, I have tried to build an E-commerce website, which can simulate all the basic controls that an actual shopping website has.
